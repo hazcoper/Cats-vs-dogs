@@ -5,6 +5,7 @@ from tensorflow.keras.callbacks import TensorBoard
 import pickle
 import time
 
+# This is a test, I dont know what this is
 
 y = pickle.load(open("y.pickle","rb"))
 X = pickle.load(open("X.pickle","rb"))
